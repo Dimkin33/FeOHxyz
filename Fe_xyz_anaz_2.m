@@ -14,7 +14,7 @@ coord_Fe(1:2)=0;
 coord_xyz_f=coord_xyz_f-coord_Fe;
 temp_zero=ones(1,19*30000*120)*0;
 coord_xyz_f=[coord_xyz_f,temp_zero'];
-c
+
 
 %% pair definition
 clearvars temp_zero
