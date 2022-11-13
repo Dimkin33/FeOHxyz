@@ -29,7 +29,7 @@ for i=7:n_atom-1
     coord_one(i,4)=ind;
 end
     
-t2df
+%t2df
 
 %%
 
