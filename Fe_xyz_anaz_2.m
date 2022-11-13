@@ -2,7 +2,7 @@ clear,clc
 close all
 %load d10_50000.mat
 %load d16_30000.mat
-load d16_45000.mat
+load ../datafile/d16_45000.mat
 clearvars -except coord_xyz_f
 time_n=45000;
 n_lmp=120;
